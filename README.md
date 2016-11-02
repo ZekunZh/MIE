@@ -47,6 +47,8 @@ Maintenance, ce permit de residence est nécessaire pour tous les chauffeurs pri
 
 ## [reference officiel](http://www.miit.gov.cn/n1146295/n1146557/n1146624/c5218603/content.html) 
 
+(http://www.miit.gov.cn/n1146295/n1146557/n1146624/c5218603/content.html)
+
 Des nouvelles réglementations sont proposées sur le service des chauffeurs privés pour toute la chine.  
 
 
@@ -62,6 +64,7 @@ Pour les véhicule des chauffeurs privés, certaines conditions importantes sont
 
 ## [reference secondaire](https://www.letscorp.net/archives/111085)
 
+(https://www.letscorp.net/archives/111085)
 
 Avec les réglementations nationalles, chaque ville devrait proposer des réglementations plus en détail et localement plus convenables. Des grandes villes ont des propositions plus ou moins similaires. Par exemple, les aspects importants de l'ébauche de Beijing sont présentés ici: 
 
