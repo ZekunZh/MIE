@@ -23,7 +23,7 @@ Maintenance, ce permit de residence est nécessaire pour tous les chauffeurs pri
 
 # Problématique
 
-## Uber et Didi sont-ils encore l'économie collaboratif en Chine ?
+### Uber et Didi sont-ils encore l'économie collaboratif en Chine ?
 
 * La plupart de chauffeurs de Uber et Didi sont professionnels. Leur model de businesse est plus proche de l'entreprise de taxi que l'économie collaboratif. 
 
@@ -32,13 +32,13 @@ Maintenance, ce permit de residence est nécessaire pour tous les chauffeurs pri
 * Le bas prix de Didi et Uber en Chine est basé sur les grandes subventions d'entreprise.
 
 
-## Faut-il distinguer les chauffeurs privées professionnel et à temps libre ?
+### Faut-il distinguer les chauffeurs privées professionnel et à temps libre ?
 
-## Comment se positionnent les services des chauffeurs privées, des taxis et du covoiturage ?
+### Comment se positionnent les services des chauffeurs privées, des taxis et du covoiturage ?
 
-## Pourquoi grande ville n'aime plus Uber et Didi? 
+### Pourquoi grande ville n'aime plus Uber et Didi? 
 
-## Le mairie est-il responsible de protéger les habitants avec permit de résidence (hukou) ? Les habitants avec hukou ont-ils les droits de profiter plus que les autres, après avoir gagné hukou avec beaucoup d'effort ?
+### Le mairie est-il responsible de protéger les habitants avec permit de résidence (hukou) ? Les habitants avec hukou ont-ils les droits de profiter plus que les autres, après avoir gagné hukou avec beaucoup d'effort ?
 
 
 -------------------------------------------------------------------
