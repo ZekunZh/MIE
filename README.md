@@ -2,15 +2,15 @@
 
 un cas d'étude entre l'économie collaboratif et l'administration officielle
 
-# Introduction
+## Introduction
 
-## L'histoire du covoiturage en Chine
+### L'histoire du covoiturage en Chine
 Uber n'est pas le seul choix de covoiturage en Chine. Née en février 2015, Didi Kuaidi, soutenus respectivement par Tencent et Alibaba, forment une plus grande partie dans les services des taxis, des chauffeurs privés et encore du covoiturage. 
 
 Didi Kuaidi est disponible dans 360 villes, contre seulement 22 pour Uber, à la fin de l'année 2015.
 
 
-## Le prix de légalisation
+### Le prix de légalisation
 
 Le gouvernement chinois est plus ouvert à propos de la légalisation du service des chauffeurs privés avec l'appli comme Uber. Le service d'Uber est encore illégal dans le plupart d'Europe. 
 
@@ -21,7 +21,7 @@ Néanmoins, la légalisation vient avec un prix cher maintenant, surtout dans le
 Maintenance, ce permit de residence est nécessaire pour tous les chauffeurs privés de Beijing et Shanghai. En meme temps, les mairies des deux villes imposent d'autres restriction sur les voitures pour ce type de service. D'après Didi, en Shanghai, 98% de voitures sont exclu des services des chauffeurs privés et du covoiturage.
 
 
-# Problématique
+## Problématique
 
 ### Uber et Didi sont-ils encore l'économie collaboratif en Chine ?
 
