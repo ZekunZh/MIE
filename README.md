@@ -18,7 +18,7 @@ Néanmoins, la légalisation vient avec un prix cher maintenant, surtout dans le
 
 *hukou*, un permit de residence d'une ville. Sans hukou, vous etre un habitant de seconde ordre dans la ville, sans l'aide sociale et la convenance d'éducation. hukou est vraiment difficile à obtenir dans les grandes ville comme Beijing et Shanghai.
 
-Maintenance, ce permit de residence est nécessaire pour tous les chauffeurs privés de Beijing et Shanghai. En meme temps, les mairies des deux villes imposent d'autres restriction sur les voitures pour ce type de service. D'après Didi, en Shanghai, 98% de voitures sont exclu des services des chauffeurs privés et du covoiturage.
+Maintenant, ce permit de residence est nécessaire pour tous les chauffeurs privés de Beijing et Shanghai. En meme temps, les mairies des deux villes imposent d'autres restriction sur les voitures pour ce type de service. D'après Didi, en Shanghai, 98% de voitures sont exclu des services des chauffeurs privés et du covoiturage.
 
 
 ## Problématique
