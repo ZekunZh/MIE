@@ -1,0 +1,81 @@
+* decentralization
+* relation paire-paire
+
+* platforme VIP pour Uber/Blablacar
+
+	|	Taxi | Uber
+Date|	1905 | 2009
+Nb	|	10M	 | > 1 millions
+	  license| VTC
+Evalu    cash| payment electroniq
+Prix  static | dynamiq
+Salaire  com/local | com
+
+actif non-organise par l'entreprise -> l'efficience d'actif
+
+Marche----------------(H)-------------------C
+
+Marche: 
+	- Offre et demande, relation decide par prix
+	- pure marche/concurence parfaite: 
+		- atomicite: chacun ne controle pas le prix individu
+		- homogeneite: service standard, info transparent
+		- liberte entree/sortie
+		- mobilite facteur de production (转移生产资料，配置资源)
+		- transparence
+
+Model d'affaire (voire photo)
+
+Client prescrire 
+	- usage
+	- payer
+
+------------------------------------------------
+
+Analyse d'Uber
+
+Au debut, model de niche (蜂巢模型)
+	- une partie specifiq -> service performant
+	- agrandir marche pas a pas
+
+Cocacola -> Newcoke
+	- gout mieux
+	- mal accepte par la societe
+		- detruit de la culture US qui reside sur l'histoire de Coca
+
+Apple Newton remplace/vis a remplacer:
+	- pas ordi, car moins performant
+	- agenda papier: oui, car donne meme service plus convenant
+
+
+Marche bi-face
+Business Model Generation
+	- client: chauffeur + utilisateur uber
+	- proposition de valeur (toujours avec comparaison)
+		- l'offre traditionnel vs. l'offre d'Uber
+		- pourquoi c'est util ? la valeur de cette produit
+		- pour Uber, temps economise
+	- ressources clef
+		- platforme: appli, web...
+	- actif clef
+		- marketing
+		- analyse donnee, RD
+	- partenaire
+		- Investisseur
+		- Chauffeur
+
+	- cout
+		- Inv/platform
+		- Pub/Marketing
+		- Salarie
+	- revenu
+		- utilisateur
+
+------------------------------------------------------
+
+Rapport Probleme
+
+Probleme empirique
+Focaliser sur question empirique d'abord 
+Generaliser apres
+
